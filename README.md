@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 📢 
 
-<!--
-**SiyumTsega/SiyumTsega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A desktop and web-based software developer with 6+ years of experience and strong problem-solving and analytical skills. 
 
-Here are some ideas to get you started:
+### Recent Projects 🏘️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ▶️ Developed a drone flight trajectory modeling application using Python and Python-based frameworks.
+    ▶️ Built a point-of-sale application for a shop using Java.
+    ▶️ Developed an insurance software application using Java and Swing.
+    ▶️ Created E-bike CAN bus data logger and diagnosis application.
+    ▶️ Contributing to the development of the open-source drone flight simulator
+    ▶️ I’m currently teaching and working freelancing mainly on @Upwork
+    ▶️ Looking for a collaboration and challenging position.
+
+#### Main Skills 🔧
+    ▶️ Java, Spring ecosystem
+    ▶️ Javascript
+    ▶️ React, NodeJS, 
+    ▶️ HTML, CSS
+    ▶️ Python, Flask
+    ▶️ Problem Solving
+    ▶️ Teaching
+    
