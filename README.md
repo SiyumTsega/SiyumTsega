@@ -1,6 +1,6 @@
 ### Hello there 📢 
 
-A desktop and web-based software developer with 6+ years of experience and strong problem-solving and analytical skills. 
+Siyum here, a desktop and web-based software developer with 6+ years of experience and strong problem-solving and analytical skills. 
 
 ### Recent Projects 🏘️
 
