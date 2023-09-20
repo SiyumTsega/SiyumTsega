@@ -12,7 +12,8 @@ Siyum here, a desktop and web-based software developer with 6+ years of experien
    
 
 #### Main Skills 🛠️
-    ▶️ Java, Spring ecosystem
+    ▶️ Java, 
+    ▶️ Spring ecosystem
     ▶️ Javascript
     ▶️ React, NodeJS, 
     ▶️ HTML, CSS
