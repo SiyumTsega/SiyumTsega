@@ -17,7 +17,8 @@ Siyum here, a desktop and web-based software developer with 6+ years of experien
     ▶️ Javascript
     ▶️ React, NodeJS, 
     ▶️ HTML, CSS
-    ▶️ Python, Flask
+    ▶️ Python, Flask, Django
+    ▶️ Database - MySQL, PostgreSQL, MongoDB
     ▶️ Problem Solving
     ▶️ Teaching
     
